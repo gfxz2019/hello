@@ -1,2 +1,2 @@
 # Hello World!
-Hello world! This is my first github simple! Thanks!
+Hello world! This is my first github sample!
